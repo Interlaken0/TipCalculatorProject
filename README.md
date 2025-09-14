@@ -2,7 +2,9 @@
 
 **Quick. Simple. Fun.** A tiny JavaScript project that calculates your meal + tip  and says hi in style! 👋  
 
-![Screenshot of Tip Calculator](./screenshot.png)
+![Screenshot of Tip Calculator](./screenshot1.png)
+![Screenshot of Tip Calculator](./screenshot2.png)
+![Screenshot of Tip Calculator](./screenshot3.png)
 
 ---
 
