@@ -1,0 +1,15 @@
+/* make it look nicer */
+body {
+  font-family: Arial, sans-serif; /* clean font */
+  margin: 20px; /* spacing */
+}
+
+label, input {
+  display: block; /* each on its own line */
+  margin: 8px 0; /* spacing */
+}
+
+button {
+  margin-top: 10px;
+  padding: 5px 10px;
+}
