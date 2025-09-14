@@ -5,8 +5,6 @@ Hey 👋
 This is just a little practice project I built to learn some JavaScript basics.
 It takes the meal price, adds a tip %, and shows you the total.
 
-![Screenshot of Tip Calculator](./screenshot.png)
-
 ## How it works
 - You type in how much the meal cost.
 - You type in the tip % (default is 12.5).
